@@ -1,1 +1,7 @@
 google.com, pub-5385853870743739, DIRECT, f08c47fec0942fa0
+
+# Dashlight (iOS, de.appsjedewoche.abfahrt)
+ownerdomain=fuatapp.github.io
+start.io, 159063316, DIRECT
+# ironSource/LevelPlay: Domain + Format laut Unity-Doku, Publisher-ID 698891 UNVERIFIZIERT (Abgleich: LevelPlay > Account > API > Publisher ID)
+ironsrc.com, 698891, DIRECT
